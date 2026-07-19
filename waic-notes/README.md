@@ -50,6 +50,7 @@
 | 01.SPACE（小公司） | [vendors/01space.md](vendors/01space.md) | Mark |
 | 暗壳AI ark.art（小公司） | [vendors/ark-art.md](vendors/ark-art.md) | Mark |
 | 机器之心 Synced（小公司） | [vendors/synced.md](vendors/synced.md) | Mark |
+| XSwitch（小公司） | [vendors/xswitch.md](vendors/xswitch.md) | Mark |
 
 ## 零散 Idea（非公司）
 
