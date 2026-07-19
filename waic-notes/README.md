@@ -34,11 +34,12 @@
 | 施耐德 | [vendors/schneider.md](vendors/schneider.md) | 已沉淀（检索整理） |
 | ABB | [vendors/abb.md](vendors/abb.md) | 已沉淀 |
 | 华为（H2） | [vendors/huawei.md](vendors/huawei.md) | 参观中 |
+| H2 快扫 | [vendors/h2-quick.md](vendors/h2-quick.md) | 进行中 |
 
 ## 场馆进度
 
 - **H1**：已逛完
-- **H2**：进行中（入口华为昇腾/Atlas）
+- **H2**：进行中（华为 → 东方算芯/比亚迪芯片/昆仑芯/思科/曙光/理想…）
 
 ## 待整理
 
