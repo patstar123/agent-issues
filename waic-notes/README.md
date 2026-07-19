@@ -28,6 +28,7 @@
 | 科大讯飞 | [vendors/iflytek.md](vendors/iflytek.md) | 已沉淀 |
 | 百度 | [vendors/baidu.md](vendors/baidu.md) | 已沉淀 |
 | MiniMax | [vendors/minimax.md](vendors/minimax.md) | 已沉淀 |
+| 西门子 | [vendors/siemens.md](vendors/siemens.md) | 已沉淀 |
 
 ## 待整理
 
