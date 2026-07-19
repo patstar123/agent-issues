@@ -55,6 +55,7 @@
 | 形界智维 FrameX-AI（小公司） | [vendors/framex-ai.md](vendors/framex-ai.md) | Mark |
 | 星熠智能 SURSPARK（小公司） | [vendors/surspark.md](vendors/surspark.md) | Mark |
 | 熵海领航（小公司） | [vendors/entropy-sea.md](vendors/entropy-sea.md) | Mark |
+| ttc True Talents Connect（小公司） | [vendors/ttc.md](vendors/ttc.md) | Mark |
 
 ## 零散 Idea（非公司）
 
