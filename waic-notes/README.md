@@ -32,6 +32,7 @@
 | 卡奥斯 ★ | [vendors/cosmoplat.md](vendors/cosmoplat.md) | 已沉淀（重点关注） |
 | 星环科技 | [vendors/transwarp.md](vendors/transwarp.md) | 已沉淀 |
 | 施耐德 | [vendors/schneider.md](vendors/schneider.md) | 已沉淀（检索整理） |
+| ABB | [vendors/abb.md](vendors/abb.md) | 已沉淀 |
 
 ## 待整理
 
