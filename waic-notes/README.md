@@ -38,6 +38,7 @@
 | 瑞芯微 ★ | [vendors/rockchip.md](vendors/rockchip.md) | 参观中（重点关注） |
 | 沐曦 | [vendors/metax.md](vendors/metax.md) | 已沉淀 |
 | 海康威视 ★ | [vendors/hikvision.md](vendors/hikvision.md) | 已沉淀（重点关注） |
+| OneOneTalk（小公司） | [vendors/oneonetalk.md](vendors/oneonetalk.md) | Mark |
 
 ## 场馆进度
 
