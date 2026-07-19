@@ -36,6 +36,7 @@
 | 华为（H2） | [vendors/huawei.md](vendors/huawei.md) | 参观中 |
 | H2 快扫 | [vendors/h2-quick.md](vendors/h2-quick.md) | 进行中 |
 | 瑞芯微 ★ | [vendors/rockchip.md](vendors/rockchip.md) | 参观中（重点关注） |
+| 沐曦 | [vendors/metax.md](vendors/metax.md) | 已沉淀 |
 
 ## 场馆进度
 
