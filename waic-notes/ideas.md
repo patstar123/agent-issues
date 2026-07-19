@@ -14,3 +14,4 @@
 - 对照：D.Transformer 展台 **ICOCO DESIGN ENGINE**（生成式 AI 设计 / 品牌创作平台）
 - 对照：**Aeiza / Stilo**（家居环境 AIGC 端到端：垂类设计模型 + 柔性供应链落地）
 - 对照：**01.SPACE**（Cursor for 3D：空间画布 + 设计师/工程师/导演 Agent，可玩可 remix）
+- 对照：**暗壳AI / ark.art**（空间智能设计 Agent：Skills + 画布 + 设计→采购交易闭环）

@@ -48,6 +48,7 @@
 | IndustrialNext（小公司） | [vendors/industrialnext.md](vendors/industrialnext.md) | Mark |
 | 交泰智能 LinkedTi（小公司） | [vendors/linkedti.md](vendors/linkedti.md) | Mark |
 | 01.SPACE（小公司） | [vendors/01space.md](vendors/01space.md) | Mark |
+| 暗壳AI ark.art（小公司） | [vendors/ark-art.md](vendors/ark-art.md) | Mark |
 
 ## 零散 Idea（非公司）
 
