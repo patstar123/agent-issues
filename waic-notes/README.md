@@ -18,6 +18,7 @@
 | 无问芯穹 | [vendors/infinigence.md](vendors/infinigence.md) | 已沉淀 |
 | 京东 | [vendors/jd.md](vendors/jd.md) | 已沉淀（展台结束） |
 | 浪潮 | [vendors/inspur.md](vendors/inspur.md) | 已沉淀（展台结束） |
+| 零一万物 | [vendors/01ai.md](vendors/01ai.md) | 已沉淀 |
 
 ## 待整理
 
