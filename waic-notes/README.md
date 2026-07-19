@@ -24,6 +24,7 @@
 | 五象云谷 | [vendors/wuxiang-yungu.md](vendors/wuxiang-yungu.md) | 已沉淀 |
 | 斗象科技 | [vendors/tophant.md](vendors/tophant.md) | 已沉淀 |
 | 合合信息 | [vendors/intsig.md](vendors/intsig.md) | 已沉淀 |
+| 超聚变 | [vendors/xfusion.md](vendors/xfusion.md) | 已沉淀 |
 
 ## 待整理
 
