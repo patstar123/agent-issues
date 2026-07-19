@@ -59,6 +59,7 @@
 | JustAI 小加同学（小公司） | [vendors/justai.md](vendors/justai.md) | Mark |
 | 荆华密算（小公司） | [vendors/jinghuamisuan.md](vendors/jinghuamisuan.md) | Mark |
 | 必胜 BISHENG（小公司） | [vendors/bisheng.md](vendors/bisheng.md) | Mark |
+| 记忆张量 MemTensor（小公司） | [vendors/memtensor.md](vendors/memtensor.md) | Mark |
 
 ## 零散 Idea（非公司）
 
