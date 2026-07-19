@@ -58,6 +58,7 @@
 | ttc True Talents Connect（小公司） | [vendors/ttc.md](vendors/ttc.md) | Mark |
 | JustAI 小加同学（小公司） | [vendors/justai.md](vendors/justai.md) | Mark |
 | 荆华密算（小公司） | [vendors/jinghuamisuan.md](vendors/jinghuamisuan.md) | Mark |
+| 必胜 BISHENG（小公司） | [vendors/bisheng.md](vendors/bisheng.md) | Mark |
 
 ## 零散 Idea（非公司）
 
