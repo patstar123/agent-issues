@@ -39,6 +39,7 @@
 | 沐曦 | [vendors/metax.md](vendors/metax.md) | 已沉淀 |
 | 海康威视 ★ | [vendors/hikvision.md](vendors/hikvision.md) | 已沉淀（重点关注） |
 | OneOneTalk（小公司） | [vendors/oneonetalk.md](vendors/oneonetalk.md) | Mark |
+| 包装呈现·MR/AR（小公司） | [vendors/packaging-mr-ar.md](vendors/packaging-mr-ar.md) | Mark |
 
 ## 场馆进度
 
