@@ -29,6 +29,7 @@
 | 百度 | [vendors/baidu.md](vendors/baidu.md) | 已沉淀 |
 | MiniMax | [vendors/minimax.md](vendors/minimax.md) | 已沉淀 |
 | 西门子 | [vendors/siemens.md](vendors/siemens.md) | 已沉淀 |
+| 卡奥斯 ★ | [vendors/cosmoplat.md](vendors/cosmoplat.md) | 已沉淀（重点关注） |
 
 ## 待整理
 
