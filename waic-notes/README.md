@@ -16,6 +16,7 @@
 | 腾讯 | [vendors/tencent.md](vendors/tencent.md) | 已沉淀（展台结束） |
 | 商汤 | [vendors/sensetime.md](vendors/sensetime.md) | 已沉淀（展台结束） |
 | 无问芯穹 | [vendors/infinigence.md](vendors/infinigence.md) | 已沉淀 |
+| 京东 | [vendors/jd.md](vendors/jd.md) | 参观中 |
 
 ## 待整理
 
