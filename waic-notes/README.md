@@ -46,6 +46,7 @@
 | SlashVibe（小公司） | [vendors/slashvibe.md](vendors/slashvibe.md) | Mark |
 | VIA Halo（小公司） | [vendors/via-halo.md](vendors/via-halo.md) | Mark |
 | IndustrialNext（小公司） | [vendors/industrialnext.md](vendors/industrialnext.md) | Mark |
+| 交泰智能 LinkedTi（小公司） | [vendors/linkedti.md](vendors/linkedti.md) | Mark |
 
 ## 零散 Idea（非公司）
 
