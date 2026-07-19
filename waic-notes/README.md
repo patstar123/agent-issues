@@ -54,6 +54,7 @@
 | 清蓝 PureblueAI（小公司） | [vendors/pureblueai.md](vendors/pureblueai.md) | Mark |
 | 形界智维 FrameX-AI（小公司） | [vendors/framex-ai.md](vendors/framex-ai.md) | Mark |
 | 星熠智能 SURSPARK（小公司） | [vendors/surspark.md](vendors/surspark.md) | Mark |
+| 熵海领航（小公司） | [vendors/entropy-sea.md](vendors/entropy-sea.md) | Mark |
 
 ## 零散 Idea（非公司）
 
