@@ -13,7 +13,8 @@
 | 宜鼎（Innodisk）× 高通 | [vendors/innodisk-qualcomm.md](vendors/innodisk-qualcomm.md) | 已沉淀 |
 | 阶跃星辰 | [vendors/stepfun.md](vendors/stepfun.md) | 已沉淀 |
 | 阿里云 | [vendors/alibaba-cloud.md](vendors/alibaba-cloud.md) | 已沉淀（展台结束） |
-| 腾讯 | [vendors/tencent.md](vendors/tencent.md) | 参观中 |
+| 腾讯 | [vendors/tencent.md](vendors/tencent.md) | 已沉淀（展台结束） |
+| 商汤 | [vendors/sensetime.md](vendors/sensetime.md) | 参观中 |
 
 ## 待整理
 
