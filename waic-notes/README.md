@@ -40,6 +40,7 @@
 | 海康威视 ★ | [vendors/hikvision.md](vendors/hikvision.md) | 已沉淀（重点关注） |
 | OneOneTalk（小公司） | [vendors/oneonetalk.md](vendors/oneonetalk.md) | Mark |
 | MemoPin（小公司） | [vendors/memopin.md](vendors/memopin.md) | Mark |
+| WatcherRobot（小公司） | [vendors/watcherrobot.md](vendors/watcherrobot.md) | Mark |
 
 ## 零散 Idea（非公司）
 
