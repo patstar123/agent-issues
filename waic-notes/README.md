@@ -21,6 +21,7 @@
 | 零一万物 | [vendors/01ai.md](vendors/01ai.md) | 已沉淀 |
 | Kimi | [vendors/kimi.md](vendors/kimi.md) | 已沉淀 |
 | 特赞 | [vendors/tezign.md](vendors/tezign.md) | 已沉淀 |
+| 五象云谷 | [vendors/wuxiang-yungu.md](vendors/wuxiang-yungu.md) | 已沉淀 |
 
 ## 待整理
 
