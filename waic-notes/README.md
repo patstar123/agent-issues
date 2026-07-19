@@ -30,6 +30,7 @@
 | MiniMax | [vendors/minimax.md](vendors/minimax.md) | 已沉淀 |
 | 西门子 | [vendors/siemens.md](vendors/siemens.md) | 已沉淀 |
 | 卡奥斯 ★ | [vendors/cosmoplat.md](vendors/cosmoplat.md) | 已沉淀（重点关注） |
+| 星环科技 | [vendors/transwarp.md](vendors/transwarp.md) | 已沉淀 |
 
 ## 待整理
 
