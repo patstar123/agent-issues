@@ -56,6 +56,7 @@
 | 星熠智能 SURSPARK（小公司） | [vendors/surspark.md](vendors/surspark.md) | Mark |
 | 熵海领航（小公司） | [vendors/entropy-sea.md](vendors/entropy-sea.md) | Mark |
 | ttc True Talents Connect（小公司） | [vendors/ttc.md](vendors/ttc.md) | Mark |
+| JustAI 小加同学（小公司） | [vendors/justai.md](vendors/justai.md) | Mark |
 
 ## 零散 Idea（非公司）
 
