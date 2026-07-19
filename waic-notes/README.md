@@ -43,6 +43,7 @@
 | WatcherRobot（小公司） | [vendors/watcherrobot.md](vendors/watcherrobot.md) | Mark |
 | D.Transformer 孵化器 | [vendors/d-transformer.md](vendors/d-transformer.md) | Mark |
 | Aeiza（小公司） | [vendors/aeiza.md](vendors/aeiza.md) | Mark |
+| SlashVibe（小公司） | [vendors/slashvibe.md](vendors/slashvibe.md) | Mark |
 
 ## 零散 Idea（非公司）
 
