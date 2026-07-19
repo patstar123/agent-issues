@@ -51,6 +51,7 @@
 | 暗壳AI ark.art（小公司） | [vendors/ark-art.md](vendors/ark-art.md) | Mark |
 | 机器之心 Synced（小公司） | [vendors/synced.md](vendors/synced.md) | Mark |
 | XSwitch（小公司） | [vendors/xswitch.md](vendors/xswitch.md) | Mark |
+| 清蓝 PureblueAI（小公司） | [vendors/pureblueai.md](vendors/pureblueai.md) | Mark |
 
 ## 零散 Idea（非公司）
 
