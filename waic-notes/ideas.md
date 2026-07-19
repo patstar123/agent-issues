@@ -11,3 +11,4 @@
 - MR / AR 效果预览
 - 仿真模拟
 - （来源：小公司展台观感，作提效思路备忘）
+- 对照：D.Transformer 展台 **ICOCO DESIGN ENGINE**（生成式 AI 设计 / 品牌创作平台）
