@@ -44,6 +44,7 @@
 | D.Transformer 孵化器 | [vendors/d-transformer.md](vendors/d-transformer.md) | Mark |
 | Aeiza（小公司） | [vendors/aeiza.md](vendors/aeiza.md) | Mark |
 | SlashVibe（小公司） | [vendors/slashvibe.md](vendors/slashvibe.md) | Mark |
+| VIA Halo（小公司） | [vendors/via-halo.md](vendors/via-halo.md) | Mark |
 
 ## 零散 Idea（非公司）
 
