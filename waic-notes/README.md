@@ -26,6 +26,7 @@
 | 合合信息 | [vendors/intsig.md](vendors/intsig.md) | 已沉淀 |
 | 超聚变 | [vendors/xfusion.md](vendors/xfusion.md) | 已沉淀 |
 | 科大讯飞 | [vendors/iflytek.md](vendors/iflytek.md) | 已沉淀 |
+| 百度 | [vendors/baidu.md](vendors/baidu.md) | 已沉淀 |
 
 ## 待整理
 
