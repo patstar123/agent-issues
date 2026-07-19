@@ -19,6 +19,7 @@
 | 京东 | [vendors/jd.md](vendors/jd.md) | 已沉淀（展台结束） |
 | 浪潮 | [vendors/inspur.md](vendors/inspur.md) | 已沉淀（展台结束） |
 | 零一万物 | [vendors/01ai.md](vendors/01ai.md) | 已沉淀 |
+| Kimi | [vendors/kimi.md](vendors/kimi.md) | 已沉淀 |
 
 ## 待整理
 
